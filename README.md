@@ -1,0 +1,2 @@
+# SnipesCompanionApp
+Personal application
